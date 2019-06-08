@@ -14,7 +14,7 @@ Require-Bundle: org.eclipse.ui,
  org.eclipse.ui.views,
  org.junit;resolution:=optional
 Bundle-ActivationPolicy: lazy
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Export-Package: com.nitorcreations.robotframework.eclipseide,
  com.nitorcreations.robotframework.eclipseide.editors,
  com.nitorcreations.robotframework.eclipseide.internal.rules;x-internal:=true
